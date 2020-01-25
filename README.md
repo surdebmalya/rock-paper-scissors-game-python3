@@ -1,4 +1,4 @@
-# rock-paper-scissors-game-python3
+# Rock Paper Scissors Game Python3
 Let's make a Rock Paper Scissor Game
 
 Let's make a rock-paper-scissors game where it is the player vs the computer. 
