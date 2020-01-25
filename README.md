@@ -12,4 +12,4 @@ between user's score and computer's score and the limit of the game has been inp
 Other important rules and general rules are being described in between the game.
 
 For More Information, please visit:
-https://dsasanengineer.blogspot.com/
+https://dsasanengineer.blogspot.com/2020/01/rock-paper-scissors-game-with-python-3.html
